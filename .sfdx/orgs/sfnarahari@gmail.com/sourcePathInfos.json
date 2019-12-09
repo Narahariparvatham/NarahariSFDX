@@ -1,0 +1,482 @@
+[
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575881573427,
+            "changeTime": 1575881573716,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575881573436,
+            "changeTime": 1575881573436,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575881573594,
+            "changeTime": 1575881573594,
+            "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\applications",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575880810179,
+            "changeTime": 1575881573451,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575885032245,
+            "changeTime": 1575885032245,
+            "contentHash": "f7ff9e8b7bb2e09b70935a5d785e0cc5d9d0abf0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575885032289,
+            "changeTime": 1575885032289,
+            "contentHash": "0f7ccc166b9976166b79a01076097d34b2c46aec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\Hello.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\Hello.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1575885032257,
+            "changeTime": 1575885032257,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\Hello.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\Hello.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1575885119464,
+            "changeTime": 1575885119464,
+            "contentHash": "c219bfe5f78e4fdcda4d4e2078c674efddd79094",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\Hello.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\Hello.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1575885032249,
+            "changeTime": 1575885032249,
+            "contentHash": "424027deabb738d5b64aa2e2ccb076bc229a985c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\Hello.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\Hello.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1575885032266,
+            "changeTime": 1575885032266,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\Hello.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\Hello.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1575885032273,
+            "changeTime": 1575885032273,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\Hello.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\Hello.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 664,
+            "modifiedTime": 1575885032277,
+            "changeTime": 1575885032277,
+            "contentHash": "6a3a9c1d5556db4bde25af9ef0957c47feb17739",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\HelloController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\HelloController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1575885032282,
+            "changeTime": 1575885032282,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\HelloHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\HelloHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1575885032286,
+            "changeTime": 1575885032286,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\HelloRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\aura\\Hello\\HelloRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1575885032290,
+            "changeTime": 1575885032290,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575883646488,
+            "changeTime": 1575883646488,
+            "contentHash": "f4b7615213db0982ef663d0b601e7badc1915248",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes\\Apex.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes\\Apex.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 141,
+            "modifiedTime": 1575883916532,
+            "changeTime": 1575883916532,
+            "contentHash": "95f42dfacb133343e2863597bd1fcfc74e6a5d17",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes\\Apex.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes\\Apex.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1575881867334,
+            "changeTime": 1575881867334,
+            "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes\\Apex2.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes\\Apex2.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 147,
+            "modifiedTime": 1575883646490,
+            "changeTime": 1575883646490,
+            "contentHash": "00d31aa584f59569f21606eef8d92c6efa508454",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes\\Apex2.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes\\Apex2.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1575882300643,
+            "changeTime": 1575882300643,
+            "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes\\Apexclass1.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes\\Apexclass1.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 103,
+            "modifiedTime": 1575882162518,
+            "changeTime": 1575882162518,
+            "contentHash": "90478a04025eff705b45d4d00e37f417c9e0fb96",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes\\Apexclass1.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\classes\\Apexclass1.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1575882147579,
+            "changeTime": 1575882147579,
+            "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\contentassets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575880810184,
+            "changeTime": 1575881573483,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575880810184,
+            "changeTime": 1575881573493,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575880810187,
+            "changeTime": 1575881573503,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575881573539,
+            "changeTime": 1575881573539,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575880810187,
+            "changeTime": 1575881573552,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575880810190,
+            "changeTime": 1575881573563,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\staticresources",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575880810190,
+            "changeTime": 1575881573573,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575880810192,
+            "changeTime": 1575881573585,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\triggers",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575880810193,
+            "changeTime": 1575881573596,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\A751513\\Documents\\LTA\\NarahariSFDX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1575881573653,
+            "changeTime": 1575881573685,
+            "contentHash": "048e09f69e4d762f59de2ce81fc0409d6fc7dd84",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
