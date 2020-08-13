@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>used to provide Admin Access</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>ODY PlaceToPlay Member Added Web Admin</name>
+    <style>none</style>
+    <subject>You now have LTA web admin access for {!npe5__Affiliation__c.npe5__Organization__c}</subject>
+    <textOnly>Hi {!npe5__Affiliation__c.npe5__Contact__c},
+
+A web administrator at {!npe5__Affiliation__c.npe5__Organization__c} has issued you with access to the Place to Play Administrator Area for your venue.
+
+The Place to Play is the management tool that allows you to complete LTA Venue Registration. You’re able to login to the Place to Play Area via your LTA Membership login page, using your usual username and password.
+
+Once this is complete, you&apos;re able to update information about your venue, manage your LTA Membership list, update the contact details of your coaches and volunteers and most importantly promote your facilities and programmes on the main LTA website.
+
+If you have any questions please contact your local County Office or the LTA Services team at info@lta.org.uk or 0208 487 7000.
+
+LTA
+
+National Tennis Centre
+100 Priory Lane
+Roehampton
+London
+SW15 5JQ
+
+E info@LTA.org.uk
+W www.LTA.org.uk
+
+Help &amp; FAQs
+
+Privacy Policy
+
+Lawn Tennis Association Limited Company Registration Number: 7459469
+LTA Operations Limited Company Registration Number: 7475460
+Country of Registration: England and Wales
+
+Registered Office Address: The National Tennis Centre, 100 Priory Lane, Roehampton, London, SW15 5JQ
+VAT Number: 115 1056  62</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

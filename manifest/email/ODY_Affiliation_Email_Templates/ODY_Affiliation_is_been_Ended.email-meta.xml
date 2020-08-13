@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>notify when affiliation is Ended</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>ODY Affiliation is been Ended</name>
+    <style>none</style>
+    <subject>Important information about your LTA Membership!</subject>
+    <textOnly>LTA Number:
+{!npe5__Affiliation__c.BTM_Number__c}
+
+LTA Username:
+{!npe5__Affiliation__c.Login_Name__c}
+
+Hi {!npe5__Affiliation__c.npe5__Contact__c},
+
+We are writing to let you know we have been informed of a change in your relationship with {!npe5__Affiliation__c.npe5__Organization__c}. This is important to note because it may affect your LTA Membership.
+
+A change in relationship is usually because you are no longer a member of your Venue. This change can be made either by yourself via the &apos;Member&apos;s Home&apos; area or alternatively by your affiliated venue.
+
+If this change hasn’t been made by yourself and you believe this has been done in error, you should contact your venue directly to discuss this.
+
+You can also find further information on how to manage your affiliated venues by following the steps outlined in our Help and FAQs.
+
+Lite Members
+
+If you are a Lite Member and no longer linked to any other Venue, your LTA Membership will expire on 31 January 2021.
+
+If your Lite Membership is linked to another registered LTA venue, your LTA Membership will remain active and no action is required.
+
+If you have recently changed Venue, or are re-joining {!npe5__Affiliation__c.npe5__Organization__c}, don&apos;t forget to let us know by logging into your Member&apos;s Area and updating your account. If you do this before the expiry date, your Lite Membership will remain active.
+
+Please note, if your membership does expire, you can re-join at any time via your Member&apos;s Area.
+
+Team Members
+
+If you are a Team Member, we will notify you when you&apos;re in your renewal period. You can find your expiry date in your online Member’s Area.
+
+VISIT YOUR MEMBER&apos;S AREA
+
+We look forward to seeing you court side soon!
+
+Help &amp; FAQs
+
+Privacy Policy
+
+Lawn Tennis Association Limited Company Registration Number: 7459469
+LTA Operations Limited Company Registration Number: 7475460
+Country of Registration: England and Wales
+
+Registered Office Address: The National Tennis Centre, 100 Priory Lane, Roehampton, London, SW15 5JQ
+VAT Number: 115 1056  62</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

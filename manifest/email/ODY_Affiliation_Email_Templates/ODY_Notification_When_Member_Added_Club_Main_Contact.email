@@ -1,0 +1,176 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style type="text/css">
+      ReadMsgBody{ width: 100%;}
+      .ExternalClass {width: 100%;}
+      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+      body {-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;margin:0 !important;}
+      p { margin: 1em 0;}
+      table td { border-collapse: collapse;}
+      img {outline:0;}
+      a img {border:none;}
+      @-ms-viewport{ width: device-width;}
+    </style>
+    <style type="text/css">
+      @media only screen and (max-width: 505px) {
+        .container {width: 100% !important;}
+        .footer { width:auto !important; margin-left:0; }
+        .mobile-hidden { display:none !important; }
+        .logo { display:block !important; padding:0 !important; }
+        img { max-width:100% !important; height:auto !important; max-height:auto !important;}
+        .header img{max-width:100% !important;height:auto !important; max-height:auto !important;}
+        .photo img { width:100% !important; max-width:100% !important; height:auto !important;}
+        .drop { display:block !important; width: 100% !important; float:left; clear:both;}
+        .footerlogo { display:block !important; width: 100% !important; padding-top:15px; float:left; clear:both;}
+        .nav4, .nav5, .nav6 { display: none !important; }
+        .tableBlock {width:100% !important;}
+        .responsive-td {width:100% !important; display:block !important; padding:0 !important; }
+        .fluid, .fluid-centered {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        .fluid-centered {
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        /* MOBILE GLOBAL STYLES - DO NOT CHANGE */
+        body { padding: 0px !important; font-size: 16px !important; line-height: 150% !important;}
+        h1 { font-size: 22px !important; line-height: normal !important;}
+        h2 { font-size: 20px !important; line-height: normal !important;}
+        h3 { font-size: 18px !important; line-height: normal !important;}
+        .buttonstyles {
+          font-family:arial,helvetica,sans-serif !important;
+          font-size: 16px !important;
+          color: #FFFFFF !important;
+          padding: 10px !important;
+        }
+        /* END OF MOBILE GLOBAL STYLES - DO NOT CHANGE */
+      }
+      @media only screen and (max-width: 660px) {
+        .container { width:100% !important; }
+        .mobile-hidden { display:none !important; }
+        .logo { display:block !important; padding:0 !important; }
+        .photo img { width:100% !important; height:auto !important;}
+        .nav5, .nav6 { display: none !important;}
+        .fluid, .fluid-centered {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        .fluid-centered {
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+      }
+    </style>
+    <!--[if mso]>
+      <style type="text/css">
+          /* Begin Outlook Font Fix */
+          body, table, td {
+              font-family: Arial, Helvetica, sans-serif ;
+              font-size:16px;
+              color:#000000;
+              line-height:1;
+          }
+          /* End Outlook Font Fix */
+      </style>
+    <![endif]-->
+  </head>
+  <body bgcolor="#ffffff" text="#000000" style="background-color: #ffffff; color: #000000; padding: 0px; -webkit-text-size-adjust:none; font-size: 16px; font-family:arial,helvetica,sans-serif;">
+    <div style="font-size:0; line-height:0;"><custom name="opencounter" type="tracking"><custom name="usermatch" type="tracking" /></div>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+      <tr>
+        <td align="center" valign="top">
+          <custom type="header"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <table cellspacing="0" cellpadding="0" border="0" width="600" class="container" align="center">
+            <tr>
+              <td>
+                <table class="tb_properties border_style" style="background-color:#FFFFFF;" cellspacing="0" cellpadding="0" bgcolor="#ffffff" width="100%">
+                  <tr>
+                    <td align="center" valign="top">
+                      <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                          <!-- added padding here -->
+                          <td class="content_padding" style="">
+                            <!-- end of comment -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tr> <!-- top slot -->
+                                <td align="center" class="header" valign="top">
+                                  <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                        <tr>
+                                          <td align="left" valign="top">
+                                            <table cellspacing="0" cellpadding="0" style="width:100%">
+                                              <tbody>
+                                              <tr>
+                                                <td class="responsive-td" valign="top" style="width: 100%;">
+                                                  <table cellpadding="0" cellspacing="0" width="100%" style="background-color: #1A7BC0; border: 0px solid transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td valign="top" style="width: 100%; padding-bottom: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="background-color: #FFFFFF; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 0px 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://www.lta.org.uk/?campaignkw=logo" title="" alias="" conversion="false" data-linkto="https://"><img data-assetid="57091" src="http://image.lta-tennis.com/lib/fe2a1170756404757d1c78/m/1/79972079-6190-4b0c-9718-a335bac43bdc.png" height="86" width="250" style="display: block; padding: 0px; text-align: center; height: 86px; width: 250px; border: 0px;"></a></td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td valign="top" style="width: 50%; padding-top: 3px; padding-right: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 5px 10px 10px; " class="stylingblock-content-wrapper camarker-inner"><div style="line-height: 150%;">
+ <span style="font-size:14px;"><span style="color:#ffffff;"><span style="font-family:Arial,Helvetica,sans-serif;"><b>LTA Number:</b><br>
+{!npe5__Affiliation__c.BTM_Number__c}</span></span></span></div></td></tr></table></td><td valign="top" style="width: 50%; padding-top: 3px; padding-left: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 5px 10px 10px; " class="stylingblock-content-wrapper camarker-inner"><div style="line-height: 150%;">
+ <span style="font-size:14px;"><span style="color:#ffffff;"><span style="font-family:Arial,Helvetica,sans-serif;"><b>LTA Username:</b><br>
+ {!npe5__Affiliation__c.Login_Name__c}</span></span></span></div></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 0px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 100%; padding-bottom: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 10px 15px; " class="stylingblock-content-wrapper camarker-inner"><div style="line-height: 150%;">
+
+  <span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;color:#4c5d64;">Hi {!npe5__Affiliation__c.npe5__Contact__c}, </span></span>
+  <br><br>
+  
+  <span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;color:#4c5d64">This is an email to confirm that you've just been added as a new Club Main Contact for {!npe5__Affiliation__c.npe5__Organization__c}</span></span><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">.</span></span><br>
+  <br>
+  <span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;color:#4c5d64">This means that you're now the primary contact for the LTA in communicating with your tennis venue.&nbsp; From time-to-time the LTA sends communications to all Club Main Contacts to update them on important information and guidance to support the running of your venue. We ask Club Main Contacts to share this information where relevant with your venue committee and members.</span></span><br>
+  <br>
+  <span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;color:#4c5d64"><b>Please note</b>&nbsp;that if you decide to &lsquo;opt-out&rsquo; of receiving LTA communications then you'll not receive any marketing correspondence and notifications from the LTA. If you are the only nominated Club Main Contact at your venue, then this means that your venue may not receive important updates from the LTA.</span></span><br>
+  <br>
+  <span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;color:#4c5d64">As the Club Main Contact you also have web admin access rights for your venue&rsquo;s&nbsp;<a data-auth="Verified" href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.lta.org.uk%2Fmember%2Flogin%2F%3FDestinationUrl%3Dhttp%253a%252f%252fwww3.lta.org.uk%252fen%252fMembers-Area%252fPlace-To-Play-Administrator%252fImportant-Documents%252f%253fp2p%253d%26utm_campaign%3D9762679_Venue%2520Registration%2520-%2520Siebel%2520Confirmation%2520Email%26utm_medium%3Demail%26utm_source%3DLTA%26utm_content%3DP2P%2520Admin%2520area%2520text%26utm_term%3D%26src%3DLTA%2520website%26dm_t%3D0%2C0%2C0%2C0%2C0&data=02%7C01%7Cankur.nigam%40atos.net%7Cba83a013410240e82cf808d80706f8fa%7C33440fc6b7c7412cbb730e70b0198d5a%7C0%7C0%7C637267073808937503&sdata=KET40OkcqC33nzcNb4%2BxBLrlbEleGEcyI3SDAfdAjj0%3D&reserved=0" originalsrc="https://www.lta.org.uk/member/login/?DestinationUrl=http%3a%2f%2fwww3.lta.org.uk%2fen%2fMembers-Area%2fPlace-To-Play-Administrator%2fImportant-Documents%2f%3fp2p%3d&amp;utm_campaign=9762679_Venue%20Registration%20-%20Siebel%20Confirmation%20Email&amp;utm_medium=email&amp;utm_source=LTA&amp;utm_content=P2P%20Admin%20area%20text&amp;utm_term=&amp;src=LTA%20website&amp;dm_t=0,0,0,0,0" rel="noopener noreferrer" shash="Iy/dOojneP46vFaxBhprznSulsFIOb57t/AsMRJocANZPnhUzaiYJQJNj5plZuUWH35kqTYvdTnfzBKeizegMiQL41gUKHcI8QSlPhrI5lPU5UKQcaFOAfmZJZgOWpunSPAJF5vCatRTGKh0AVMGzMDn/NNwACNHsXuIs7L+/5o=" target="_blank" title="Original URL: https://www.lta.org.uk/member/login/?DestinationUrl=http%3a%2f%2fwww3.lta.org.uk%2fen%2fMembers-Area%2fPlace-To-Play-Administrator%2fImportant-Documents%2f%3fp2p%3d&amp;utm_campaign=9762679_Venue%20Registration%20-%20Siebel%20Confirmation%20Email&amp;utm_medium=email&amp;utm_source=LTA&amp;utm_content=P2P%20Admin%20area%20text&amp;utm_term=&amp;src=LTA%20website&amp;dm_t=0,0,0,0,0. Click or tap if you trust this link.">Places to Play Administrator area</a>,&nbsp;the online system for managing your venue&rsquo;s registration to LTA.</span></span><br>
+  <br>
+  <span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;color:#4c5d64">If you have any questions then please contact the LTA Services Team at&nbsp;<a data-auth="NotApplicable" href="mailto:info@lta.org.uk" rel="noopener noreferrer" target="_blank">info@lta.org.uk</a>&nbsp;or 020 8487 7000.</span></span><br>
+  <p style="line-height: 150%;">
+  <span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;color:#4c5d64">Kind regards,</span></span></p><p style="line-height: 150%;">
+  <span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;color:#4c5d64">LTA</span></span></p></div></td></tr></table></td></tr></table></td></tr><tr><td><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 100%; padding-top: 3px;"></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="background-color: #1A7BC0; border: 1px solid #1A7BC0; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 99px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td valign="top" style="width: 25%; padding-right: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://www.instagram.com/lta" title="" alias="" conversion="false" data-linkto="https://"><img data-assetid="32705" src="https://image.s50.sfmc-content.com/lib/fe2a1170756404757d1c78/m/1/fcabe0b0-1c53-435a-8fbf-9f113fd84276.png" height="52" width="52" style="display: block; padding: 0px; text-align: center; height: 52px; width: 52px; border: 0px;"></a></td></tr></table></td></tr></table></td><td valign="top" style="width: 25%; padding-left: 3px; padding-right: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://www.facebook.com/thelta1" title="" alias="" conversion="false" data-linkto="https://"><img data-assetid="32707" src="https://image.s50.sfmc-content.com/lib/fe2a1170756404757d1c78/m/1/cd059fc4-f1ce-446b-8727-2132c6997910.png" height="52" width="52" style="display: block; padding: 0px; text-align: center; border: 0px solid transparent; height: 52px; width: 52px;"></a></td></tr></table></td></tr></table></td><td valign="top" style="width: 25%; padding-left: 3px; padding-right: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://twitter.com/the_LTA" title="" alias="" conversion="false" data-linkto="https://"><img data-assetid="32708" src="https://image.s50.sfmc-content.com/lib/fe2a1170756404757d1c78/m/1/b38ad071-6209-440c-b331-bc9e859ad67e.png" height="52" width="52" style="display: block; padding: 0px; text-align: center; border: 0px solid transparent; height: 52px; width: 52px;"></a></td></tr></table></td></tr></table></td><td valign="top" style="width: 25%; padding-left: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://www.youtube.com/c/BritishTennis" title="" alias="" conversion="false" data-linkto="https://"><img data-assetid="32706" src="https://image.s50.sfmc-content.com/lib/fe2a1170756404757d1c78/m/1/7c8cd8b1-b3eb-4c9f-8b99-d6dcf10c2503.png" height="52" width="52" style="display: block; padding: 0px; text-align: center; border: 0px solid transparent; height: 52px; width: 52px;"></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="background-color: #1A7BC0; border: 1px solid #1A7BC0; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 10px 0px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td valign="top" style="width: 50%; padding-right: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><center>
+ <b style="color: rgb(255, 255, 255); text-decoration: none; font-size: 14px; font-family: arial, helvetica, sans-serif;"><a alias="Help &amp;amp; FAQ&amp;#x27;s" conversion="false" data-linkto="https://" href="https://helpcentre.lta.org.uk/help/s/lta-help-centre" style="color:#FFFFFF;text-decoration:none;" title="Help &amp; FAQ's">Help &amp; FAQs</a></b></center></td></tr></table></td><td valign="top" style="width: 50%; padding-left: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><center>
+ <a href="https://www.lta.org.uk/about-us/what-we-do/governance-and-structure/policies-and-rules/privacy-policy/?utm_campaign=11398168_LTA%20Youth_Green_40_Matches&utm_medium=email&utm_source=LTA&utm_content=PrivacyPolicy&utm_term=&src=&dm_t=0,0,0,0,0" style="color: rgb(255, 255, 255); text-decoration: none; font-size: 14px; font-family: arial, helvetica, sans-serif;"><b>Privacy Policy </b></a></center></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="background-color: #1A7BC0; border: 1px solid #1A7BC0; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 10px 10px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 50%; padding-right: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; border: 0px; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><div style="line-height: 100%; width:310px">
+ <span style="font-size:10px;"><span style="font-family:Arial,Helvetica,sans-serif;"><span style="color:#ffffff;"><b>Lawn Tennis Association Limited Company Registration Number:</b><span style="color:#ffffff;"> 7459469&nbsp;</span></span></span></span></div><div style="line-height: 115%;">
+ <span style="font-size:10px;"><span style="font-family:Arial,Helvetica,sans-serif;"><span style="color:#ffffff;"><b>LTA Operations Limited Company Registration Number:</b><span style="color:#ffffff;"> 7475460&nbsp;</span></span></span></span></div><div style="line-height: 100%;">
+ <span style="font-size:10px;"><span style="font-family:Arial,Helvetica,sans-serif;"><span style="color:#ffffff;"><b>Country of Registration:</b> England and Wales</span></span></span></div></td></tr></table></td><td valign="top" class="responsive-td" style="width: 50%; padding-left: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><div style="line-height: 100%;">
+ <span style="font-size:10px;"><span style="font-family:Arial,Helvetica,sans-serif;"><span style="color:#ffffff;"><b>Registered Office Address:</b>&nbsp;The National Tennis Centre, 100 Priory Lane, Roehampton, London, SW15 5JQ</span></span></span></div><div style="line-height: 115%;">
+ <span style="font-size:10px;"><span style="font-family:Arial,Helvetica,sans-serif;"><span style="color:#ffffff;"><b>VAT Number: </b><span style="color:#ffffff;">115 1056&nbsp; 62</span></span></span></span></div></td></tr></table></td></tr></table></td></tr></table></td></tr></table>
+                                                </td>
+                                              </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">
+          <custom type="footer" />
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Notify when the role is Club Main Contact and Org type is Club,school or park</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>ODY Notification When Member Added Club Main Contact</name>
+    <style>none</style>
+    <subject>Your new role as Club Main Contact at  {!npe5__Affiliation__c.npe5__Organization__c}</subject>
+    <textOnly>LTA Number:
+{!npe5__Affiliation__c.BTM_Number__c}
+
+LTA Username:
+{!npe5__Affiliation__c.Login_Name__c}
+
+Hi {!npe5__Affiliation__c.npe5__Contact__c},
+
+This is an email to confirm that you&apos;ve just been added as a new Club Main Contact for {!npe5__Affiliation__c.npe5__Organization__c}.
+
+This means that you&apos;re now the primary contact for the LTA in communicating with your tennis venue.  From time-to-time the LTA sends communications to all Club Main Contacts to update them on important information and guidance to support the running of your venue. We ask Club Main Contacts to share this information where relevant with your venue committee and members.
+
+Please note that if you decide to ‘opt-out’ of receiving LTA communications then you&apos;ll not receive any marketing correspondence and notifications from the LTA. If you are the only nominated Club Main Contact at your venue, then this means that your venue may not receive important updates from the LTA.
+
+As the Club Main Contact you also have web admin access rights for your venue’s Places to Play Administrator area, the online system for managing your venue’s registration to LTA.
+
+If you have any questions then please contact the LTA Services Team at info@lta.org.uk or 020 8487 7000.
+
+Kind regards,
+
+LTA
+
+Help &amp; FAQs
+
+Privacy Policy
+
+Lawn Tennis Association Limited Company Registration Number: 7459469
+LTA Operations Limited Company Registration Number: 7475460
+Country of Registration: England and Wales
+
+Registered Office Address: The National Tennis Centre, 100 Priory Lane, Roehampton, London, SW15 5JQ
+VAT Number: 115 1056  62</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>
